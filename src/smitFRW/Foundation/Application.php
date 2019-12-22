@@ -6,6 +6,6 @@ class Application
 {
     public function test()
     {
-        print_r("hello world);
+        print_r("hello world");
     }
 }
