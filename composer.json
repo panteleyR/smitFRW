@@ -1,5 +1,6 @@
 {
     "name": "lilith/smitfrw",
+    "version": "0.3.22",
     "authors": [
         {
             "name": "Rostislav",
@@ -8,7 +9,9 @@
     ],
     "require": {
         "php": "^7.2",
-        "psr/container": "^1.0"
+        "psr/container": "^1.0",
+        "symfony/http-foundation": "^4.3.4",
+        "symfony/http-kernel": "^4.3.4"
     },
     "autoload": {
         "files": [
